@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+img{
+	width:300px;
+	height:460px;
+	object-fit:contain;
+	border:1px solid;
+}
